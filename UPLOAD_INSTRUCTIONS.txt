@@ -1,0 +1,14 @@
+UPLOAD THESE EXTRACTED FILES TO THE ROOT OF YOUR GITHUB REPOSITORY
+
+Required root files:
+- index.html
+- research.html
+- hobbies.html
+- contact.html
+- 404.html
+- .nojekyll
+- README.md
+- assets/ folder
+- downloads/ folder
+
+Do not upload only the ZIP.
